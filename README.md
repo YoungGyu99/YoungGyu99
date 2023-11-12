@@ -13,7 +13,7 @@
 <h3 align="center">🌈 Follow Me 🌈</h3>
 <p align="center">
   <a href="https://www.instagram.com/lee090831/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>&nbsp;
-  <a href="mailto:YoungGyu"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  <a href="mailto:YoungGyu99"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=robot0908&show_icons=true&theme=radical">
