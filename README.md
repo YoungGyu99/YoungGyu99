@@ -16,5 +16,5 @@
   <a href="mailto:robot090831@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kimhyein7110@gmail.com"/></a>
 </p>
 <p align="center">
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=robot0908@naver.com&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YoungGyu99&show_icons=true&theme=radical)
 </p
