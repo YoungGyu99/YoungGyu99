@@ -15,4 +15,6 @@
   <a href="https://www.instagram.com/lee090831/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hye_inisfree/"/></a>&nbsp
   <a href="mailto:robot090831@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kimhyein7110@gmail.com"/></a>
 </p>
+<p align="center">
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=robot0908@naver.com&show_icons=true&theme=radical)
+</p
