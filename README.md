@@ -37,6 +37,8 @@
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=robot0908&show_icons=true&theme=radical">
+  ![YoungGyu GitHub stats](https://github-readme-stats.vercel.app/api?username=delay-100&show_icons=true&theme=radical)
+
 </p>
 <p>
 <img src"https://github-readme-stats.vercel.app/api/top-langs/?username=ohbyul&layout=compact&theme=dracula">
