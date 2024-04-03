@@ -36,7 +36,7 @@
   <a href="mailto:YoungGyu99"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
 <p align="center">
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YougGyu99&show_icons=true&theme=radical)
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YougGyu99&show_icons=true&theme=dark)
 </p>
 <p>
 <img src"https://github-readme-stats.vercel.app/api/top-langs/?username=ohbyul&layout=compact&theme=dracula">
