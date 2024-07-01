@@ -1,4 +1,4 @@
-<div style="text-align: center;">
+<div align="center">
     <!-- Backend -->
     <p><strong>Backend</strong></p>
     <div style="display: flex; justify-content: center;">
@@ -31,10 +31,10 @@
       <a href="https://www.instagram.com/lee090831/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>&nbsp;
       <a href="mailto:YoungGyu99"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
     </p>
-    <p>
+    <center>
       <img src="https://github-readme-stats.vercel.app/api?username=YoungGyu99&show_icons=true&theme=radical">
-    </p>
-    <p>
+    </center>
+    <center>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ohbyul&layout=compact&theme=dracula">
-    </p>
+    </center>
 </div>
