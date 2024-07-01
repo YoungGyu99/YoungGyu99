@@ -3,7 +3,7 @@
     <p><strong>Backend</strong></p>
     <div style="display: flex; justify-content: center;">
         <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"> 
-        <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring boot&logoColor=white"> 
+        <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring%20boot&logoColor=white"> 
     </div>
     <!-- Database -->
     <p><strong>Database</strong></p>
@@ -26,14 +26,15 @@
         <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white">
     </div>
 
-<h3 align="center">🌈 Follow Me 🌈</h3>
-<p align="center">
-  <a href="https://www.instagram.com/lee090831/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>&nbsp;
-  <a href="mailto:YoungGyu99"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YoungGyu99&show_icons=true&theme=radical">
-</p>
-<p>
-<img src"https://github-readme-stats.vercel.app/api/top-langs/?username=ohbyul&layout=compact&theme=dracula">
-</p>
+    <h3>🌈 Follow Me 🌈</h3>
+    <p>
+      <a href="https://www.instagram.com/lee090831/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>&nbsp;
+      <a href="mailto:YoungGyu99"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+    </p>
+    <p>
+      <img src="https://github-readme-stats.vercel.app/api?username=YoungGyu99&show_icons=true&theme=radical">
+    </p>
+    <p>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ohbyul&layout=compact&theme=dracula">
+    </p>
+</div>
